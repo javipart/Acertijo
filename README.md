@@ -1,6 +1,6 @@
 # Acertijo
 Acertijo de Bloques
-# Primera version sin optimizar
+### Primera version sin optimizar ###
 
 *1.* A cada una de las letras debe asignársele un único digito decimal de tal forma que la operación numéricamente sea satisfecha. TWO + THREE + SEVEN = TWELVE
 
@@ -11,7 +11,7 @@ Acertijo de Bloques
 
 # Riddle
 Puzzle of Blocks
-# First version without optimization
+### First version without optimization ###
 
 *1.* Each of the letters must be assigned a single decimal digit in such a way that the operation is numerically satisfied. TWO + THREE + SEVEN = TWELVE
 
