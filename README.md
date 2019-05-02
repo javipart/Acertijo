@@ -7,7 +7,7 @@ Acertijo de Bloques
 *6.* A cada una de las letras debe asignársele un único digito decimal de tal forma que la operación numéricamente sea satisfecha. ONE + FOUR = FIVE
 
 
-*31* Roberto se halla en el piso 30 del edificio de Avianca y debe bajar 5 bloques de 105, 90, 45, 30 y 15 Kg., al primer piso. Cuenta con un mecanismo para ello, pero dicho mecanismo solamente funciona si la diferencia de pesos entre sus dos extremos es de 15 Kg exactamente. ¿Cómo debe colocar los pesos?. 
+*31.* Roberto se halla en el piso 30 del edificio de Avianca y debe bajar 5 bloques de 105, 90, 45, 30 y 15 Kg., al primer piso. Cuenta con un mecanismo para ello, pero dicho mecanismo solamente funciona si la diferencia de pesos entre sus dos extremos es de 15 Kg exactamente. ¿Cómo debe colocar los pesos?. 
 
 # Riddle
 Puzzle of Blocks
