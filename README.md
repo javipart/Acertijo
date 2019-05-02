@@ -1,6 +1,6 @@
 # Acertijo
 Acertijo de Bloques
-#Primera version sin optimizar
+# Primera version sin optimizar
 
 *1*A cada una de las letras debe asignársele un único digito decimal de tal forma que la operación numéricamente sea satisfecha. TWO + THREE + SEVEN = TWELVE
 
