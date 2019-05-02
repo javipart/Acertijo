@@ -1,4 +1,5 @@
 solutions = 0
+previousR = []
 loop do
     blocks = %w{ 105 90 45 30 15 }
     randomAdd1 = 0
@@ -15,12 +16,15 @@ loop do
         r2.push(num)
         randomAdd2 += num.to_i
         if r1.length > 2
-            if randomAdd1 - randomAdd2 == 15
-                puts "Bloques LD #{r1}"
-                puts "Bloques LI #{r2}"
-                solutions += 1
+            if previousR != r1.sort
+                if randomAdd1 - randomAdd2 == 15
+                    puts "Bloques LD #{r1}"
+                    puts "Bloques LI #{r2}"
+                    solutions += 1
+                end
+                previousR = r1.sort
             end
         end
     end
-    break if solutions == 6
+    break if solutions == 2
 end
